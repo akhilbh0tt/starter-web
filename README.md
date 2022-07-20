@@ -1,3 +1,3 @@
 #Starter Web Project
 ##Introduction
-###How to contirbute
+##How to contirbute
